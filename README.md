@@ -38,13 +38,13 @@ Gosto de transformar problemas reais em soluções funcionais, aplicando boas pr
 
 🔹 **Backoffice API System**  
 API REST desenvolvida para gerenciamento de usuários, permissões e dados operacionais.  
-**Tecnologias:** Node.js, Express, PostgreSQL, JWT  
-➡️ Repositório: *(adicione o link aqui)*
+**Tecnologias:** Node.js, Express, JWT  
+➡️ Repositório: *https://github.com/guiaoyagui/dashboardafiliados*
 
 🔹 **Admin Dashboard System**  
 Sistema web para visualização e controle de dados via dashboard administrativo.  
 **Tecnologias:** React, APIs REST, autenticação  
-➡️ Repositório: *(adicione o link aqui)*
+➡️ Repositório: *https://github.com/guiaoyagui/dashboardafiliados*
 
 🔹 **Outros projetos**
 - Sistemas CRUD
