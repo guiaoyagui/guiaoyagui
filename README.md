@@ -23,7 +23,6 @@ Gosto de transformar problemas reais em soluções funcionais, aplicando boas pr
 - TypeScript
 - Node.js
 - React
-- PostgreSQL
 - APIs REST
 - Git & GitHub
 
